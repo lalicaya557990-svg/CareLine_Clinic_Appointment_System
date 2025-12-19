@@ -63,7 +63,7 @@ pip install matplotlib
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/Clinic_Appointment_System.git
+git clone https://github.com/lalicaya557990-svg/CareLine_Clinic_Appointment_System.git
 
 
 Navigate to the project folder:
@@ -75,7 +75,7 @@ Make sure all dependencies are installed
 
 Run the main application file:
 
-python main_app.py
+main_app.py
 
 📌 Notes
 
